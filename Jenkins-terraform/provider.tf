@@ -9,5 +9,5 @@ terraform {
 
 # Configure the AWS Provider
 provider "aws" {
-  region = "ap-southest-2"
+  region = "ap-southe-1"
 }
